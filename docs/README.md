@@ -10,14 +10,14 @@ Quality assurance and risk management are integrated across the lifecycle. QA pr
 
 ## Process Documentation Index
 
-- [Project Management Overview](docs/octoacme-project-management-overview.md)
-- [Project Initiation Guide](docs/octoacme-project-initiation.md)
-- [Project Planning](docs/octoacme-project-planning.md)
-- [Execution & Tracking](docs/octoacme-execution-and-tracking.md)
-- [Risk Management & Communication](docs/octoacme-risks-and-communication.md)
-- [Release & Deployment Guide](docs/octoacme-release-and-deployment.md)
-- [Retrospective & Continuous Improvement](docs/octoacme-retrospective-and-continuous-improvement.md)
-- [Roles and Personas](docs/octoacme-roles-and-personas.md)
+- [Project Management Overview](octoacme-project-management-overview.md)
+- [Project Initiation Guide](octoacme-project-initiation.md)
+- [Project Planning](octoacme-project-planning.md)
+- [Execution & Tracking](octoacme-execution-and-tracking.md)
+- [Risk Management & Communication](octoacme-risks-and-communication.md)
+- [Release & Deployment Guide](octoacme-release-and-deployment.md)
+- [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
+- [Roles and Personas](octoacme-roles-and-personas.md)
 
 ## How to use these docs
 
